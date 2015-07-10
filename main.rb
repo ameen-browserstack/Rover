@@ -13,3 +13,4 @@ p.rovers.each do |r|
   r.execute
   puts "#{r.x} #{r.y} #{r.direction}"
 end
+
