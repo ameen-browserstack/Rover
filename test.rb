@@ -70,3 +70,4 @@ class TestGame < Test::Unit::TestCase
     end
   end
 end
+
