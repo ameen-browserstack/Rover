@@ -98,4 +98,3 @@ class Rover
 	end
 end
 
-
